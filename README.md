@@ -1,6 +1,7 @@
 # Power Quality Event Detection Using the Stockwell Transform
 
-![image](./stock.jpg)
+![Alt Text](https://github.com/3WDeveloper-GM/Python_Investigation/blob/main/stock.png)
+
 
 Welcome to the repository for my Bachelor's capstone project conducted at the Universidad Nacional Autónoma de Honduras. This project addresses the critical task of identifying Power Quality Events (PQE) in the power system network. Power Quality Events encompass a wide range of deviations within the power network, including sag, high-frequency harmonics, high-frequency transients, and noise from various connected elements. The objective of this project was to develop a robust solution for detecting these events.
 
